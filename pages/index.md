@@ -1,7 +1,3 @@
----
-title: Accueil
-layout: home
----
 
 <section class="hero">
   <div class="container">
@@ -476,4 +472,5 @@ document.addEventListener('DOMContentLoaded', function() {
     observer.observe(el);
   });
 });
+
 </script>
